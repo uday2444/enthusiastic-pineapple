@@ -1,0 +1,41 @@
+{
+    "layout_type": "full-width",
+    "style": "classic",
+    "palette": "red",
+    "mode": "light",
+    "base_font": "sans-serif",
+    "header": {
+        "title": "TSFM",
+        "logo": "images/trust-logo.jpeg",
+        "logo_alt": "Event logo",
+        "has_primary_nav": false,
+        "has_secondary_nav": true,
+        "secondary_nav_links": [
+            {
+                "label": "About",
+                "url": "/aboutcompany",
+                "style": "link"
+            },
+            {
+                "label": "Services",
+                "url": "/sponsorship",
+                "style": "link"
+            },
+            {
+                "label": "Contact Now",
+                "url": "thank-you",
+                "style": "primary"
+            }
+        ],
+        "has_anncmnt": false
+    },
+    "footer": {
+        "has_primary_nav": false,
+        "has_secondary_nav": false,
+        "has_tertiary_nav": false,
+        "has_social": false,
+        "content": "© TrustSecureFacilityManagement. All rights reserved."
+    },
+    "title": "Stackbit Event Theme",
+    "domain": "https://clever-owl-7c028.netlify.app"
+}

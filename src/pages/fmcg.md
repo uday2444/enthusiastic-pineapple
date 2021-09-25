@@ -1,0 +1,34 @@
+---
+title: FMCG BTL Services
+sections:
+  - title: FMCG BTL SERVICE
+    features:
+      - subtitle: >-
+          Below the line marketing, highly targeted direct marketing focused on
+          conversions, which will be more impact on the best responses and
+          conversions
+        content: "**Merchandising: -**\_Influencing consumer's decisions with the promotion of particular sale that can employ pricing, effective offers implementation, display, which impacts on the sales increment which in turn generates revenue. Merchandising accomplishment Never compromising principles unique sourcing which is something advanced, which will be a massive impact on the targeted audiences/ market The particular product range will be merchandised with concern of age, sex, and palate of the target market\n\n**Promoters/ Sales representatives: -**\_Key role at a retail chain/ brand which will expand the scope of businesses with honest and confident excellent customer demonstration. Crucial drive We trust 4p’s will be a game-changer in this role which can be derived\n\n**Product: -** Being familiar with the entire category product line that falls in.\n\n**Placement: -**\_To be located in high shopper’s density areas with positioning eye level of specific goods.\n\n**Price: -**  Dealing with discount offering area comparative with competitors’ price. As price factor plays a vital role in customers purchase\n\n**Decisions promotion: -**\_Being aware of all promotional aspects much impacts on intensifying conversion ratio Competent advice to the consumers\n\n**Management information system (Mis): -**\_Backbone of the organization's operations, data extracted from various sources, and derive insights that drive business growth\n"
+        actions: []
+        image_alt: lorem-ipsum
+        media_position: top
+        media_width: fifty
+        align: left
+        image: images/woman-pushing-shopping-cart-shelves-supermarket (1).jpg
+    feature_padding_vert: medium
+    align: center
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: features_section
+seo:
+  title: ''
+  description: ''
+  robots: []
+  extra: []
+template: advanced
+---
